@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+ .pseudo-class{
+	 background-color:rgb(135, 206, 235);
+ }
+.first-child{
+	color:white;
+	background-color:black;
+}
+.nth-child(2){
+	colo:black;
+}
+.last-child{
+	color:red;
+}
+.olg{
+	background-color:gray;
+	padding:10px;
+	width:50%;
+}
+.odd{
+	background-color:white;
+	padding:10px;
+	width:50%;
+}
+.fl{
+	font-size:22px;
+}
+.third{
+	background-color:pink;
+	padding:10px;
+	width:50%;
+}
